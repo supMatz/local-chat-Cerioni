@@ -1,31 +1,10 @@
-<h1 align="center">Python Chat App 💬</h1>
-
-![Demo App](/screenshot-for-readme.png)
-
-[Video Tutorial on Youtube](https://youtu.be/h991oLxOxeM)
-
-About This Course:
-
--   🚀 Python virtual environment setup
--   💬 Socket.io and Flask integration
--   ✨ JavaScript on the frontend
--   ✅ Deployment at the end
-
-### Run the App Locally
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/burakorkmez/python-chat.git
-```
-
-2. Navigate to the project directory:
+- Navigate to the project directory:
 
 ```bash
 cd python-chat
 ```
 
-3. Create a virtual environment:
+- Create a virtual environment:
 
 -   On macOS and Linux:
 
@@ -39,7 +18,7 @@ python3 -m venv venv
 python -m venv venv
 ```
 
-5. Activate the virtual environment:
+- Activate the virtual environment:
 
 -   On macOS and Linux:
 
@@ -53,7 +32,7 @@ source venv/bin/activate
 venv\Scripts\activate
 ```
 
-6. Install the dependencies:
+- Install the dependencies:
 
 -   On macOS and Linux:
 
@@ -67,7 +46,7 @@ pip3 install -r requirements.txt
 pip install -r requirements.txt
 ```
 
-7. Run the app:
+- Run the app:
 
 -   On macOS and Linux:
 
